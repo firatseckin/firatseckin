@@ -28,7 +28,7 @@ I'm a **Software Engineering Student** at **Fırat University**, passionate abou
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=firatseckin&show_icons=true&theme=radical" alt="Firat's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firatseckin&layout=compact&theme=radical" alt="Top Langs" />
+ 
 </p>
 
 ---
@@ -37,5 +37,7 @@ I'm a **Software Engineering Student** at **Fırat University**, passionate abou
 
 <p align="left">
 <a href="https://linkedin.com/in/fırat-seçkin-815821381" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="mailto:firatseckinn@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:firatseckinn@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
 </p>
